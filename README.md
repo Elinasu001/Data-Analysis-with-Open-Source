@@ -32,7 +32,7 @@ Python과 오픈소스 라이브러리를 활용하여 데이터 처리, 분석,
 
 ## Notion 기록
 학습 과정은 Notion에도 정리하였습니다.  
-[Notion 학습 페이지]([여기에_본인_Notion_URL_추가](https://ubiquitous-woodpecker-cc5.notion.site/26a8e71b864f8009bbfae5b53c177d1f?source=copy_link))
+[Notion 학습 페이지](https://ubiquitous-woodpecker-cc5.notion.site/26a8e71b864f8009bbfae5b53c177d1f?source=copy_link)
 
 ---
 
